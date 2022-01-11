@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body {
-  @apply bg-blue-300;
+  @apply bg-gradient-to-r from-rose-300 to-rose-400;
 }
